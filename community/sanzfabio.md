@@ -1,7 +1,7 @@
 # Fabio Sanz
 
 Sou Fabio, formado em Engenharia de Produção e tenho muito interesse na área de tecnologia.
-Estou sempre em busca de novos conhecimentos.
+Estou sempre em busca de novos conhecimentos,  possuo noções de analise de dados.
 
 # Conecte-se comigo
 
